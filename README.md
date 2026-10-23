@@ -1,4 +1,4 @@
-# m8c
+# m8c TRIMUI BATTERY METER + PROPER SCREEN SCALING MOD
 
 ## Introduction
 
